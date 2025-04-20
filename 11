@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html> 
+    <head>
+        <title> 开心</title>
+    </head>
+    <body>  
+        <img
+         src="111.jpg"
+         alt="我的图片"
+        >
+    </body>
+</html>
